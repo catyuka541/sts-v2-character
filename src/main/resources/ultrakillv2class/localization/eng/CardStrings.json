@@ -1,0 +1,36 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description. NL Second line.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+
+  "${modID}:atkStrike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage."
+  },
+
+  "${modID}:sklDefend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block."
+  },
+
+  "${modID}:atkPulverize": {
+    "NAME": "Pulverize",
+    "DESCRIPTION": "Deal !D! damage. NL Reduce the cost of all cards in your hand to 1 this turn.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Reduce the cost of all cards in your hand to 1 this turn."
+  },
+
+  "${modID}:atkAftershock": {
+    "NAME": "Aftershock",
+    "DESCRIPTION": "Deal !D! damage and NL apply !M! Weak to ALL NL enemies.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage and NL apply !M! Weak to ALL NL enemies."
+  }
+}

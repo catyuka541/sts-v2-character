@@ -1,0 +1,25 @@
+{
+  "${modID}:RelicID": {
+    "NAME": "Good Relic",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. [E] is an energy icon."
+    ]
+  },
+
+  "${modID}:TestRelic": {
+    "NAME": "v2 test relic",
+    "FLAVOR": "FUGG :DDDD.",
+    "DESCRIPTIONS": [
+      "Does nothing."
+    ]
+  },
+
+  "${modID}:rlcPeacekeeperFirmware": {
+    "NAME": "Peacekeeper Firmware",
+    "FLAVOR": "PROTOCOL:: CONSERVE // CONSERVE // FUEL LEVELS SUBOPTIMAL // CONSERVE.",
+    "DESCRIPTIONS": [
+      "If you do not spend all your [E] during your turn, gain an additional [E] and draw 1 additional card next turn."
+    ]
+  }
+}
